@@ -1,5 +1,11 @@
 package com.design.pattern.factory.func;
 
+/**
+ * 工厂方法：
+ * 具体的产品采用具体的工厂
+ * @author Rick
+ *
+ */
 public class FactoryTest {
 
 	public static void main(String[] args) {
