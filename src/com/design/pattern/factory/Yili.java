@@ -5,7 +5,7 @@ public class Yili implements Milk {
 	@Override
 	public String getName() {
 		
-		return "ÒÁÀû";
+		return "ä¼Šåˆ©";
 	}
 
 }

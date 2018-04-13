@@ -5,7 +5,7 @@ public class Mengniu implements Milk {
 	@Override
 	public String getName() {
 		// TODO Auto-generated method stub
-		return "ÃÉÅ£";
+		return "è’™ç‰›";
 	}
 
 }

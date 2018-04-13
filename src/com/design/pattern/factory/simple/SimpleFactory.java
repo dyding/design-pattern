@@ -8,11 +8,11 @@ import com.design.pattern.factory.Yili;
 public class SimpleFactory {
 	
 	public Milk getMilk(String name){
-		if("ÒÁÀû".equals(name)){
+		if("ä¼Šåˆ©".equals(name)){
 			return new Yili();
-		}else if("ÃÉÅ£".equals(name)){
+		}else if("è’™ç‰›".equals(name)){
 			return new Mengniu();
-		}else if("ÌØÂØËÕ".equals(name)){
+		}else if("ç‰¹ä»‘è‹".equals(name)){
 			return new Telunsu();
 		}
 		return null;

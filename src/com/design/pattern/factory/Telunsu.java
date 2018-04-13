@@ -5,7 +5,7 @@ public class Telunsu implements Milk {
 	@Override
 	public String getName() {
 		// TODO Auto-generated method stub
-		return "ÌØÂØËÕ";
+		return "ç‰¹ä»‘è‹";
 	}
 
 }
